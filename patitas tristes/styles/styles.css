@@ -1,0 +1,14 @@
+:root{
+    background-color: #00CED1;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #00CED1;
+}
+
+.carousel-control-prev-icon:hover,
+.carousel-control-next-icon:hover {
+  background-color: #00CED1;; /* Reemplaza #ff0000 por el color que deseas */
+}
